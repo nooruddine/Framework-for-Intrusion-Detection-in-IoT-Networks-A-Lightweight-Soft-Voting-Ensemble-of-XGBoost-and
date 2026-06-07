@@ -1,5 +1,0 @@
-https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15?select=UNSW-NB15_1.csv
-
-
-time 6:pm
-data 04/06/2026
